@@ -3,7 +3,7 @@ Private External Bot - Gathering - Fishing - Combat Script
 Albion Online Bot & cheat, Gathering, Fishing, Full Optimized Combat Bot.
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/QrFYRbDfsm)
-![Version](https://img.shields.io/badge/version-4.9-blue.svg)
+![Version](https://img.shields.io/badge/version-5.0-blue.svg)
 
 ## Features
 
